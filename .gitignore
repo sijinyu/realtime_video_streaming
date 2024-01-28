@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+node_modules
+
+# Optional npm cache directory
+.npm
+
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+
+
+realtime_video_streaming_web/.yarn/cache
+realtime_video_streaming_web/.yarn/unplugged
+realtime_video_streaming_web/.yarn/build-state.yml
+realtime_video_streaming_web/.yarn/install-state.gz
+realtime_video_streaming_web/.pnp.*
